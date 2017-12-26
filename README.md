@@ -16,7 +16,11 @@ ws4py for Bitstamp support.
 tornado for Bitstamp support.
 tweepy for Twitter support.
 
-pip install pyalgotrade-python-3
+This will downgrade the pyalgotrade:
+pip install pyalgotrade
+
+clone or download this pyalgotrade-python-3, copy all the files and folds under pyalgotrade-python-3 to override existing pyalgotrade.
+
 
 
 Full document can be found here:
