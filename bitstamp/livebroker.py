@@ -20,7 +20,7 @@
 
 import threading
 import time
-import Queue
+import queue
 
 from pyalgotrade import broker
 from pyalgotrade.bitstamp import httpclient
